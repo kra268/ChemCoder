@@ -7,8 +7,9 @@ Steps involved in building a reliable predictive model involves more steps than 
 1) Data generation/mining/gathering
 2) Data preparation (imputation, augmentation etc.)
 3) Exploratory data analysis (EDA)
-4) Data splitting methods (with reasoning and suggestions)
-5) Building predictive models (some generative models too)
-6) Hyperparameters and tuning
-7) Model evaluation
-8) Deployment of models
+4) Scaling and transformation
+5) Data splitting methods (with reasoning and suggestions)
+6) Building predictive models (some generative models too)
+7) Hyperparameters and tuning
+8) Model evaluation
+9) Deployment of models
